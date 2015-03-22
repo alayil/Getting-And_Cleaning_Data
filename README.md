@@ -31,9 +31,6 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 * The data will be found in the directory "./UCIHARDataset/".
 * The required packages "plyr" and "reshape2" are already installed.
 
-### Use
-To use the script at the prompt, call source("./run_analysis.R"), then run_analysis(). 
-Output of the script is written to a data frame as the resulting table is too large.
 
 ### Functionality
 * The script imports the test and training datasets (X_test.txt and X_train.txt) from the UCI HAR data 
