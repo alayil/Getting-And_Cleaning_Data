@@ -7,8 +7,7 @@
 ## International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 ## This script creates a tidy dataset for further analysis by merging a number of .txt files and produces
 
-## Set working directory
-setwd("./Coursera/Coursera-Getting-and-Cleaning-Data/UCIHARDataset")
+
 
 ## Confirm whether required package is installed 
 
